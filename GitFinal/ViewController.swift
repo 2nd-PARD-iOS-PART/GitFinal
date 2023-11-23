@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         
         //형진짱
         print("haram")
+        print("testestestes")
     }
 
 
