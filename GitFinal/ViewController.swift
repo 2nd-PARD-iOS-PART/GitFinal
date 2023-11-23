@@ -13,6 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Hello World ! !")
         // Do any additional setup after loading the view.
+        
+        //형진짱
         print("haram")
         print("testestestes")
         print("민섭test")
